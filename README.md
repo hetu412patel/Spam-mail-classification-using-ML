@@ -1,3 +1,4 @@
+**SPAM MAIL CLASSIFICATION USING ML**
 -	Create conda environment with specific python version
 -	 Activate particular project environment
 -	Install packages and libraries which are needed for the project
